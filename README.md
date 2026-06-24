@@ -22,117 +22,101 @@
 - 🎓 **Alumni:** Proud Mechatronics Engineering graduate from Sana'a University.
 <!--End Intro-->
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Aymen Profile Views" style="padding-right:20px;" />
-</p>
-
 ---
 
 <!--Languages and Tools Section-->       
 <h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ & Eᴄᴏsʏsᴛᴇᴍ 🛠️</h2> 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,cuda,cpp,c,python,ros,docker,git,linux,github&theme=dark" alt="My Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,py,cpp,c,ros,linux,docker,git,github&theme=dark" alt="My Tech Stack"/>
 </p>
 <br />
 
 <table width="100%">
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">📊 Data Analysis & Machine Learning</h3>
+      <ul align="left">
+        <li><b>Libraries:</b> Pandas, NumPy, SciPy, Scikit-Learn.</li>
+        <li><b>Visualization:</b> Matplotlib, Seaborn, Plotly.</li>
+        <li><b>Core ML:</b> Regression models, Clustering, SVMs, Random Forests, XGBoost.</li>
+        <li><b>Data Engineering:</b> Data cleaning pipelines, feature engineering, statistical analysis, and dataset augmentation pipelines.</li>
+      </ul>
+    </td>
     <td width="50%" valign="top">
       <h3 align="left">🧠 Deep Learning & Vision</h3>
       <ul align="left">
-        <li>Custom model architectures (YOLO frameworks, CNNs, Transformers).</li>
-        <li>Advanced tensor memory sharing and optimization rules.</li>
-        <li>Metric maximization: mAP, Intersection over Union (IoU), precision-recall.</li>
-        <li>Biometric arrays, face recognition tracking, and driver monitoring systems.</li>
+        <li><b>Frameworks:</b> PyTorch, TensorFlow, Keras, OpenCV.</li>
+        <li><b>Architectures:</b> YOLO (v5-v10), CNNs, Transformers, ResNet.</li>
+        <li><b>Optimization:</b> Tensor memory sharing, custom data loaders, and metric tracking (mAP, IoU, Precision-Recall tuning).</li>
+        <li><b>Biometrics:</b> Driver monitoring frameworks, facial recognition, and real-time tracking arrays.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">⚙️ Control Systems & Robotics</h3>
+      <ul align="left">
+        <li><b>Ecosystems:</b> ROS / ROS2, Real-Time Operating Systems (RTOS).</li>
+        <li><b>Navigation:</b> SLAM (Simultaneous Localization and Mapping).</li>
+        <li><b>Hardware:</b> PID Digital Controllers, Microcontrollers (ESP32, STM32).</li>
+        <li><b>Edge Compute:</b> Sensor integration (IMUs, LiDAR) and Jetson Nano deployment.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">⚙️ Control Systems & Agentic AI</h3>
+      <h3 align="left">🌐 Agentic AI & Automation</h3>
       <ul align="left">
-        <li>Real-Time Operating Systems (RTOS) & SLAM execution.</li>
-        <li>PID digital control systems running on embedded micros (ESP32/STM32).</li>
-        <li>Workflow automation via node-based platforms like <b>n8n</b>.</li>
-        <li>Autonomous environment connections using <b>Model Context Protocol (MCP)</b>.</li>
+        <li><b>Workflows:</b> Node-based automation via <b>n8n</b>.</li>
+        <li><b>Agent Ecosystems:</b> Model Context Protocol (MCP) tool integrations.</li>
+        <li><b>Environment:</b> Docker containerization, Git Actions, Linux development.</li>
       </ul>
     </td>
   </tr>
 </table>
-<br />
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YOUR_USERNAME&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=tokyonight">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YOUR_USERNAME&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=YOUR_USERNAME&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<br />
-
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/YOUR_USERNAME">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=YOUR_USERNAME&count_private=true&show_icons=true&theme=tokyonight&bg_color=0,000000,1a1b26&title_color=7aa2f7&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/YOUR_USERNAME">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=YOUR_USERNAME&theme=tokyonight&background=0,000000,1a1b26&fire=ff9e64&ring=7aa2f7&sideNums=ffffff&sideLabels=ffffff&dates=7aa2f7&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/YOUR_FEATURED_REPO">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_FEATURED_REPO&theme=tokyonight&show_owner=true&bg_color=0,000000,1a1b26&title_color=7aa2f7&text_color=ffffff" alt="Featured Repository" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/YOUR_USERNAME">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=YOUR_USERNAME&limit=2&theme=tokyonight&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,1a1b26&title_color=7aa2f7&text_color=ffffff" alt="Top Contributions" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a1b26&color=ffffff&line=7aa2f7&point=ff9e64&area=false&hide_border=false" border-radius="15" width="97%">
-</div>
 
 ---
 
-<!--Dynamic Quote card updates everyday--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!--Featured Projects Grid - Replaces Blank Stats-->
+<h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs & Aʀᴄʜɪᴛᴇᴄᴛᴜʀᴇs 🚀</h2>
 
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&bg_color=1a1b26&author_color=ff9e64&accent_color=7aa2f7">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛣️ Advanced Lane Finding & Road Boundary Detection</h4>
+      <p>A real-time Computer Vision pipeline tailored for autonomous driving scenarios, featuring camera matrix calibration, perspective transformations, and robust lane-tracking algorithms optimized for performance constraint environments.</p>
+      <code>Python</code> <code>OpenCV</code> <code>NumPy</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔒 SafeDrive AI: Driver Monitoring System</h4>
+      <p>An intelligent, vision-based edge framework designed to track driver attentiveness, utilizing facial landmark detection, eye-aspect-ratio tracking, and biometric arrays to prevent cognitive fatigue in real time.</p>
+      <code>PyTorch</code> <code>Computer Vision</code> <code>Edge AI</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Agentic Knowledge Retrieval System (RAG)</h4>
+      <p>An educational knowledge engine utilizing a semantic vector pipeline to serve verified, text-cited academic insights directly to students, leveraging modern agent protocols for deep tool context.</p>
+      <code>Python</code> <code>RAG</code> <code>MCP</code> <code>n8n</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🦾 Digital Control & Robotic Navigation Platform</h4>
+      <p>Low-level embedded firmware and simulations integrating PID digital controllers, microcontrollers, and SLAM pipelines to achieve fluid, real-time autonomous robot pathing.</p>
+      <code>C/C++</code> <code>ROS</code> <code>RTOS</code> <code>PID</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!--Roadmap section to show active development-->
+<h2 align="center">🎯 Cᴜʀʀᴇɴᴛ R&D Rᴏᴀᴅᴍᴀᴘ 🎯</h2>
+
+- [x] **Phase 1:** Standardizing modular computer vision classes for edge deployments.
+- [x] **Phase 2:** Engineering custom automation layers using n8n to test agentic workflows.
+- [ ] **Phase 3:** Optimizing deep learning models specifically targeting shared tensor memory limits.
+- [ ] **Phase 4:** Compiling robust, practical lab toolkits for student deep learning training tracks.
+
+---
 
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
