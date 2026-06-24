@@ -17,7 +17,7 @@
 <p align="left">I bridge the gap between intelligent software algorithms and complex physical machinery. My professional focus lies in building end-to-end Computer Vision pipelines, training robust Deep Learning models, and architecting edge-optimized robotics systems that interact with the physical world.</p>
 
 - ⚡ **Engineering Core:** If it doesn't run reliably in real-time or under deployment constraints, optimization is required.
-- 🔭 **Current Focus:** Real-time object tracking, autonomous lane-finding calibration, and node-based automation structures.
+- 🔭 **Expertise Architecture:** Real-time object tracking, autonomous systems calibration, and high-performance concurrent automation layers.
 - 👨‍🏫 **Practical Delivery:** I direct practical lab instructions for Deep Learning and Vision systems, shifting focus from raw theory to production-ready deployments.
 - 🎓 **Alumni:** Proud Mechatronics Engineering graduate from Sana'a University.
 <!--End Intro-->
@@ -28,7 +28,7 @@
 <h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ & Eᴄᴏsʏsᴛᴇᴍ 🛠️</h2> 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,py,cpp,c,ros,linux,docker,git,github&theme=dark" alt="My Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,py,cpp,c,rust,ros,linux,docker,git,github&theme=dark" alt="My Tech Stack"/>
 </p>
 <br />
 
@@ -57,6 +57,7 @@
     <td width="50%" valign="top">
       <h3 align="left">⚙️ Control Systems & Robotics</h3>
       <ul align="left">
+        <li><b>Languages:</b> C/C++, Python, and high-performance <b>Rust</b>.</li>
         <li><b>Ecosystems:</b> ROS / ROS2, Real-Time Operating Systems (RTOS).</li>
         <li><b>Navigation:</b> SLAM (Simultaneous Localization and Mapping).</li>
         <li><b>Hardware:</b> PID Digital Controllers, Microcontrollers (ESP32, STM32).</li>
@@ -68,53 +69,11 @@
       <ul align="left">
         <li><b>Workflows:</b> Node-based automation via <b>n8n</b>.</li>
         <li><b>Agent Ecosystems:</b> Model Context Protocol (MCP) tool integrations.</li>
-        <li><b>Environment:</b> Docker containerization, Git Actions, Linux development.</li>
+        <li><b>Systems Dev:</b> Memory-safe applications, Docker containerization, Git Actions, and Linux development environments.</li>
       </ul>
     </td>
   </tr>
 </table>
-
----
-
-<!--Featured Projects Grid - Replaces Blank Stats-->
-<h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs & Aʀᴄʜɪᴛᴇᴄᴛᴜʀᴇs 🚀</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛣️ Advanced Lane Finding & Road Boundary Detection</h4>
-      <p>A real-time Computer Vision pipeline tailored for autonomous driving scenarios, featuring camera matrix calibration, perspective transformations, and robust lane-tracking algorithms optimized for performance constraint environments.</p>
-      <code>Python</code> <code>OpenCV</code> <code>NumPy</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔒 SafeDrive AI: Driver Monitoring System</h4>
-      <p>An intelligent, vision-based edge framework designed to track driver attentiveness, utilizing facial landmark detection, eye-aspect-ratio tracking, and biometric arrays to prevent cognitive fatigue in real time.</p>
-      <code>PyTorch</code> <code>Computer Vision</code> <code>Edge AI</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Agentic Knowledge Retrieval System (RAG)</h4>
-      <p>An educational knowledge engine utilizing a semantic vector pipeline to serve verified, text-cited academic insights directly to students, leveraging modern agent protocols for deep tool context.</p>
-      <code>Python</code> <code>RAG</code> <code>MCP</code> <code>n8n</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🦾 Digital Control & Robotic Navigation Platform</h4>
-      <p>Low-level embedded firmware and simulations integrating PID digital controllers, microcontrollers, and SLAM pipelines to achieve fluid, real-time autonomous robot pathing.</p>
-      <code>C/C++</code> <code>ROS</code> <code>RTOS</code> <code>PID</code>
-    </td>
-  </tr>
-</table>
-
----
-
-<!--Roadmap section to show active development-->
-<h2 align="center">🎯 Cᴜʀʀᴇɴᴛ R&D Rᴏᴀᴅᴍᴀᴘ 🎯</h2>
-
-- [x] **Phase 1:** Standardizing modular computer vision classes for edge deployments.
-- [x] **Phase 2:** Engineering custom automation layers using n8n to test agentic workflows.
-- [ ] **Phase 3:** Optimizing deep learning models specifically targeting shared tensor memory limits.
-- [ ] **Phase 4:** Compiling robust, practical lab toolkits for student deep learning training tracks.
 
 ---
 
