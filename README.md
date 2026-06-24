@@ -67,9 +67,10 @@
     <td width="50%" valign="top">
       <h3 align="left">🌐 Agentic AI & Automation</h3>
       <ul align="left">
-        <li><b>Workflows:</b> Node-based automation via <b>n8n</b>.</li>
-        <li><b>Agent Ecosystems:</b> Model Context Protocol (MCP) tool integrations.</li>
-        <li><b>Systems Dev:</b> Memory-safe applications, Docker containerization, Git Actions, and Linux development environments.</li>
+        <li><b>Cognitive Architectures:</b> Advanced Retrieval-Augmented Generation (RAG) pipelines, vector database querying, and semantic search.</li>
+        <li><b>Agent Ecosystems:</b> Building autonomous agentic workflows using orchestration frameworks and the Model Context Protocol (MCP).</li>
+        <li><b>Workflows:</b> Node-based system automation via <b>n8n</b>.</li>
+        <li><b>Systems Dev:</b> Memory-safe applications, Docker containerization, Git Actions, and Linux environments.</li>
       </ul>
     </td>
   </tr>
